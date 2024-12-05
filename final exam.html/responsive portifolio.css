@@ -1,0 +1,14 @@
+body{
+	background-color:#ffff00;
+}
+div.pages{
+	font-family:arial;
+	margin:60px;
+	letter-spacing:4px;
+	border-style:solid;
+}
+#p{
+	background-color:maroon;
+	font-family:algerian;
+	text-shadow:4px 3px green; 
+}
